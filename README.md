@@ -9,7 +9,7 @@
 
 
 ### 🌐 Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hpmartins) [![Personal page](https://img.shields.io/badge/Henrique's%20Page-red)](https://henrique.page/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hpmartins)
 
 ### 💻 Tools:
 <div>
